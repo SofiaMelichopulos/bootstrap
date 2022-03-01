@@ -5,7 +5,8 @@ h3 { display: none; }
 .footer { display: flex;
 
 	 justify-content: flex-end;
-	 margin-top: 500px;
+	 margin-top: 5px;
+	 
 	}
 
 
