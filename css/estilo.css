@@ -23,3 +23,7 @@ h3 { display: none; }
   position: relative;
 }
 
+.navbar-brand img {
+    width: 55%
+}
+
